@@ -5,6 +5,9 @@ This project aims to develop a structured retail sales database to extract valua
 Objectives:
 
 Retail Sales Database Setup: Create and populate a retail sales database using the provided data.
+
 Data Cleaning: Identify and remove records containing missing or null values to ensure data accuracy.
+
 Exploratory Data Analysis (EDA): Perform an initial analysis to understand sales trends and dataset characteristics.
+
 Business Insights & Analysis: Utilize SQL queries to extract actionable insights and address critical business questions.
